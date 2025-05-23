@@ -3,3 +3,4 @@ whisper
 gTTS
 pydub
 google-generativeai
+gunicorn==20.1.0
