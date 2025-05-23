@@ -1,6 +1,9 @@
-Flask
 git+https://github.com/openai/whisper.git
-gTTS
-pydub
-google-generativeai
 gunicorn==20.1.0
+Flask==2.3.2
+torch==2.0.1
+tqdm
+ffmpeg-python
+gtts
+pydub
+google-generativeai==0.3.2
