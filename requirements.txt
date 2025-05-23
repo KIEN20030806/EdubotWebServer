@@ -1,5 +1,5 @@
 Flask
-whisper
+git+https://github.com/openai/whisper.git
 gTTS
 pydub
 google-generativeai
