@@ -1,0 +1,5 @@
+Flask
+whisper
+gTTS
+pydub
+google-generativeai
